@@ -1,8 +1,8 @@
 # TKINTER_STUDY
 Study  object orientation with Tkinter 
-# Game Robot_Moviments
-# By: Alexsandro Monteiro
-# Date: 14/06/2019
+### Game Robot_Moviments
+### By: Alexsandro Monteiro
+### Date: 14/06/2019
 
 from tkinter import *
 from random import randint
